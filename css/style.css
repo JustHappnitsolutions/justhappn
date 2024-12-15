@@ -332,8 +332,8 @@ ul.costomer li a {
 }
 
 .text-bg span {
-     color: #42c366;
-     font-size: 60px;
+     color: hsl(138, 32%, 44%);
+     font-size: 50px;
      line-height: 77px;
      font-weight: bold;
 }
